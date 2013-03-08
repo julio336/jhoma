@@ -14,6 +14,7 @@ gem 'geocoder'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 gem "twitter-bootstrap-rails"
 
+gem 'thin'
 
 group :development, :test do
   gem 'sqlite3', '1.3.5'
